@@ -30456,7 +30456,7 @@ aEw:function aEw(){},
 aEB:function aEB(){},
 aRz(){var s=0,r=A.v(t.H),q,p
 var $async$aRz=A.p(function(a,b){if(a===1)return A.r(b,r)
-while(true)switch(s){case 0:p="".toLowerCase()
+while(true)switch(s){case 0:p="production".toLowerCase()
 $label0$0:{q="dev"
 if("development"===p)break $label0$0
 if("staging"===p){q="stg"
